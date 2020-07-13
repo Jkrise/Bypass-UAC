@@ -1,0 +1,20 @@
+Command line:
+SC control "ALM Launcher (BETA)" 222
+
+0xDE
+
+if 
+
+command = 222 cmd.exe /T:0A /k title ALM Launcher Beta     
+
+command = 223 Notepad.exe
+
+command = 224 taskmgr.exe
+
+command = 225 %WT6%WinTOTAL.exe
+
+command = 226 TSA6
+
+command = 227 %TM3%\Menu4.exe
+
+else return;
